@@ -6,7 +6,7 @@
   #- { role: Dynatrace.Dynatrace-Client, tags: client }
   - { role: Dynatrace.Dynatrace-Collector, tags: collector }
   #- { role: Dynatrace.Dynatrace-Glassfish-Agent, tags: glassfish-agent }
-  #- { role: Dynatrace.Dynatrace-Java-Agent, tags: java-agent }
+  - { role: Dynatrace.Dynatrace-Java-Agent, tags: java-agent }
   #- { role: Dynatrace.Dynatrace-License, tags: license }
   #- { role: Dynatrace.Dynatrace-NGINX-Agent, tags: nginx-agent }
   #- { role: Dynatrace.Dynatrace-Plugin, tags: plugin }
