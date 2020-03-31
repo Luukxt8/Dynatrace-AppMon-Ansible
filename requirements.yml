@@ -1,0 +1,3 @@
+# Install the role Dynatrace.Dynatrace-Collector from GitHub
+- name: Dynatrace.Dynatrace-Collector
+  src: https://github.com/Luukxt8/Dynatrace-Appmon-Collector-Ansible.git
