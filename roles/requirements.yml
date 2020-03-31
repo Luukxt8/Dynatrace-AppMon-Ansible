@@ -3,3 +3,5 @@
   src: https://github.com/Luukxt8/Dynatrace-Appmon-Collector-Ansible.git
 - name: Dynatrace.Dynatrace-Java-Agent
   src: https://github.com/Luukxt8/Dynatrace-AppMon-Java-Agent-Ansible.git
+- name: Dynatrace.Dynatrace-Agent
+  src: https://github.com/Luukxt8/Dynatrace-Agent-Ansible.git
