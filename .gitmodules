@@ -9,7 +9,7 @@
 	url = https://github.com/Dynatrace/dynatrace-client-ansible.git
 [submodule "roles/Dynatrace.Dynatrace-Collector"]
 	path = roles/Dynatrace.Dynatrace-Collector
-	url = https://github.com/Dynatrace/dynatrace-collector-ansible.git
+	url = https://github.com/Luukxt8/Dynatrace-Appmon-Collector-Ansiblecd 
 [submodule "roles/Dynatrace.Dynatrace-Glassfish-Agent"]
 	path = roles/Dynatrace.Dynatrace-Glassfish-Agent
 	url = https://github.com/Dynatrace/dynatrace-glassfish-agent-ansible.git
