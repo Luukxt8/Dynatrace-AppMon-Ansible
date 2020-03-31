@@ -4,7 +4,7 @@
   - { role: Dynatrace.Dynatrace-Agent, tags: agent }
   - { role: Dynatrace.Dynatrace-Apache-HTTPD-Agent, tags: apache-httpd-agent }
   - { role: Dynatrace.Dynatrace-Client, tags: client }
-  - { role: Dynatrace-Appmon-Collector-Ansible, tags: collector }
+  - { role: Dynatrace.Dynatrace-Collector, tags: collector }
   - { role: Dynatrace.Dynatrace-Glassfish-Agent, tags: glassfish-agent }
   - { role: Dynatrace.Dynatrace-Java-Agent, tags: java-agent }
   - { role: Dynatrace.Dynatrace-License, tags: license }
