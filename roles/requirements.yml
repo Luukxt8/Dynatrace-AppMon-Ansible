@@ -5,3 +5,7 @@
   src: https://github.com/Luukxt8/Dynatrace-AppMon-Java-Agent-Ansible.git
 - name: Dynatrace.Dynatrace-Agent
   src: https://github.com/Luukxt8/Dynatrace-Agent-Ansible.git
+- name: Dynatrace.Dynatrace-WebServer-Agent
+  src: https://github.com/Luukxt8/Dynatrace-AppMon-WebServer-Agent-Ansible.git
+- name: Dynatrace.Dynatrace-NGINX-Agent
+  src: https://github.com/Luukxt8/Dynatrace-AppMon-NGINX-Agent-Ansible.git
